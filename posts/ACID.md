@@ -2,7 +2,7 @@
 title: 'ACID'
 date: 'July 19, 2023'
 excerpt: 'This is my notes in learning database internals.'
-cover_image: '/images/posts/db_logo.png'
+cover_image: '/images/posts/database-logo.png'
 alt: 'image'
 tags: ['database','relational database', 'postgreSQL']
 ---
