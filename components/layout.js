@@ -66,8 +66,8 @@ export default function Layout({ children, router, pageProps }) {
   //   loading: () => <Loader />
   // })
   const bg = useColorModeValue(
-    "linear-gradient(to bottom, #6cd8e8, #001517)",
-    "linear-gradient(to bottom, #232323 80%, #6cd8e8)"
+    "linear-gradient(to bottom, #6ec4e8, #001517)",
+    "linear-gradient(to bottom, #46596661 80%, #6ec4e8)"
   );
   return (
     <Flex
